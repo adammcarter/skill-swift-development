@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swift Development"
+  short_description: "Elite Swift architecture and implementation specialist"
+  default_prompt: "Use $swift-development to implement clean, testable, maintainable Apple-platform Swift with lean MVVM defaults, modern concurrency, strong structure, and focused tests."
